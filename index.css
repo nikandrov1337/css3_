@@ -78,6 +78,7 @@ margin: 0;
     .info-row {
     text-transform: uppercase;
     display: flex;
+    flex-wrap: wrap;
     box-sizing: border-box;
     padding: 0;
     margin-left: 5%;
